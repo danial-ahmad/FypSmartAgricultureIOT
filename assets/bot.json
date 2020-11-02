@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "raspberry-cee5e",
+  "private_key_id": "ee620e6d4702b5beecf27fbd070ccf9fdf54213d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQC/DuQfu/4RA2tf\ndKkC7uvf0UBwJXd8kTmBlAq6X3UNGv20IjrzqGsRkbd7l7O26tkVkJQl4zwefgsG\n++ZERoD/i2NGgoTeaxB2CQfS4WIVVXAfwJ5dJdgvIxwyrvK63LNKWgAPBVnXl6OM\naQRUG1M/j6syTRKgk3P/abTYostZVqBmHOP5VTsbvNe5ufF/s8+9FutqM/C3DeHl\nPI2ZiDhIF3TznoESVCng34sVr/itNZ9wNSMhkWN4dK3zidpqx7b7J2X+w2begtSQ\nqSa44gvRZsl2KnoMs9WLLYd52MG7y/O6n2p7EPPsoVaRaT8XdHFJMVyNWTaUHfzA\nSNxS5D5ZAgMBAAECgf921QAINs/GFG+3L1UgeuGuSsRAUbgI0ZPjq/yq3H2SphuZ\n94vRmUdgYAGLcvcaY3ePvk28EjUYbMC+UTG5lL72YyyP4kK71x6l6iKna5nDjKaC\nt8gpanW/hmMe5gzcDgGaTFoACelOK5gKjzqxOd/yAQtYZYVR8va8DU9e6KVCmGOp\njuuYq86QkIqPqZOSmT0JtCRyRp1SHmPV8B7+QBTVDgt5wtZE2SaDt8PymADc2lNS\nPARAAmvmTvCTQCdzWg9MTDqtU+H0MLaOOVsl1boD1vIxN6bLUW4/GDU+RmpGL4jP\ns/v6LprGT9oILWA0bJMqIgN1SrkplzHAR6zeLV0CgYEA5mE3aPj2MVUGe5xHnEug\nLkhj0DARoLpYwovD3aixXh0UMazlPaXMzruS1qrnFzIy9BUFPXIPtvx2k0MfkAyM\nV1H0jK4AcwlxhdaXYo4Z9flRDvWTHBjhInm6BiEbEl4Gp2t0oTosGYF2CEpGwIhT\nvH5Ixag3PlmITv1fM1aytU0CgYEA1E42BgRNFkwsQ+k2AufPB54FSqUWQHs7YJ1B\nZ0Lom/uYEJn4XRS41DyTSK3PcrWtNk1UN9JqJIZNpCFwLkDI6vicUy7oJD6arRg5\nroPb+4TVWJs9VXlMUYCnRrGi2DpfHDITNWlu87cKhqrFM0dsx3IW6NJhx0PcU2MZ\nlzcJtz0CgYB3SlmVumxIiR1NPlP6Q1KTBJrifzFxh2xUeGiYSzRkZixBuKQPMt4F\nIi1biK0WXsDxkDzhX0Fx3/JKOJSMU2MMB/zYJ3VGG9qzkbVbq/cXXdyyIUjmYJ+a\n6WsAp33MGfHaGRMQNP4GyvliO4u9QBoT3VQzPPI2D8g8FoiIHdl1dQKBgDafwOqf\nZK4d/y2h7VGmDvBoyffArg79JfPfwhotbufjPebXlr1sPXnt8/85KSzcbaqRDuAl\n9UVcgNGAAPsFlCxQtvf4E6ZvrSBoIT8zkgAO102q84bwZKB7t45K2hlEO4BnqeWO\nMQvnxn+LpJ1i/Sv7wMU6jAnW/fM+hjEP6iIJAoGAXntKscbDuPrUI2MjBGZGUuDR\nGoztTXyLoDvig/pTSwY2zmkV5CEVLawImqm18NeF0SN3dkLDceRLcyfrJUf50uyz\n0z7DcER2hT12+GGv55E8+/G8BuXBh0gQqDpmYdF6eiCFI58Fmcsuth0rR2lMVf4i\n5YQDyN080J/lEz5uv8E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "smart-agriculture@raspberry-cee5e.iam.gserviceaccount.com",
+  "client_id": "105221287523852258533",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smart-agriculture%40raspberry-cee5e.iam.gserviceaccount.com"
+}

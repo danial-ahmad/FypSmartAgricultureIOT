@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "831071721471",
+    "firebase_url": "https://raspberry-cee5e.firebaseio.com",
+    "project_id": "raspberry-cee5e",
+    "storage_bucket": "raspberry-cee5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831071721471:android:05fcd91a20f5e3e64539ca",
+        "android_client_info": {
+          "package_name": "com.example.SmartAgriculture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831071721471-v6ukgfps8lgp4n7qqk6apqn9sq1j4plc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.SmartAgriculture",
+            "certificate_hash": "61994b391c676aecadba113b6eaabc2bc11bcccc"
+          }
+        },
+        {
+          "client_id": "831071721471-3g7m9td6b25nseodsej9jiqh9eq12cb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCozLSlHUzEIAmzyVWW15EHCFTpouGWr_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831071721471-3g7m9td6b25nseodsej9jiqh9eq12cb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831071721471:android:54c0777ef87142264539ca",
+        "android_client_info": {
+          "package_name": "com.example.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831071721471-9jv4oit4vrcc2f3rsa116r9921kp2akr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iot",
+            "certificate_hash": "61994b391c676aecadba113b6eaabc2bc11bcccc"
+          }
+        },
+        {
+          "client_id": "831071721471-3g7m9td6b25nseodsej9jiqh9eq12cb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCozLSlHUzEIAmzyVWW15EHCFTpouGWr_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831071721471-3g7m9td6b25nseodsej9jiqh9eq12cb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831071721471:android:d7a46680f8485c734539ca",
+        "android_client_info": {
+          "package_name": "com.example.smart_agriculture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831071721471-lsu4u286evqr8l8e4glh1pj32u2uul74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_agriculture",
+            "certificate_hash": "e43f5f8d0dd967a9cf611f53ebbe3170dc8f894f"
+          }
+        },
+        {
+          "client_id": "831071721471-3g7m9td6b25nseodsej9jiqh9eq12cb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCozLSlHUzEIAmzyVWW15EHCFTpouGWr_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831071721471-3g7m9td6b25nseodsej9jiqh9eq12cb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
